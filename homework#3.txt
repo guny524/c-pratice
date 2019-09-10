@@ -1,0 +1,3 @@
+If you enter the salary and the term (y years m months), write a program that calculates the total income earned during that period.
+월급과 기간(y년 m개월)을 입력하면 그 기간 동안에 받은 총 수입을 계산하는 프로그램을 작성하시오.
+(Ex. 1000 2 4 -> 28000) 

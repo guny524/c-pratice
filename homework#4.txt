@@ -1,0 +1,25 @@
+The admission fee for a zoo is as follows.
+Preschoolers: Free, Elementary school students: 500 won, Youth: Adults: 1000 won, Senior citizens: 300 won
+Write the program to output the total number of people and the total admission fee by inputting the number for each age group as shown in the following example.
+Ex) How many children are in preschool?
+2 Press the [Enter]
+How many elementary students are there?
+1 Press the [Enter]
+How many adults are young and older?
+2 Press the [Enter]
+How old are you?
+1 Press the [Enter]
+The total number is 6 people and the admission fee is 2800 won.
+
+어느 동물원 입장료는 다음과 같습니다.
+미취학 아동: 무료, 초등생: 500원, 청소년~어른: 1000원, 노인: 300원
+다음 예씨와 같이 각 연령별 인원을 사용자로부터 입력 받고 이 때의 총 인원과 총 입장료를 계싼하여 출력하는 프로그램을 작성하시오.
+Ex) 미취학 아동의 수는?
+2 [Enter]
+초등생의 수는?
+1 [Enter]
+청소년 이상 어른의 수는?
+2 [Enter]
+노인의 수는?
+1 [Enter]
+총 인원은 6명이고 입장료는 2800원 입니다.

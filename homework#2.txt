@@ -1,0 +1,3 @@
+Write a program that calculates the width by entering the length and height of the base of the rectangle. However,the height is given as an integer.
+직사각형의 밑변의 길이와 높이를 입력 받아 넓이를 계산하는 프로그램을 작성하시오. 단, 밑변의 길이와 높이는 정수로 주어진다.
+(Ex. 3 6 -> 18 / 5 7 -> 35)
